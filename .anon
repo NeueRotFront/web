@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# Anonymisiere den letzten Commit, denn es ist nicht gut, wenn Personen darinnen erscheinen
+#
+# Rechtliche Verantwortung für Anonyme Commits siehe die rechtlichen Ansprechpartner des RFB
+
+git config --local user.name RFB
+git config --local user.email nrf
+git commit --amend --reset-author --no-edit
+
