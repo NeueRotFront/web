@@ -5,7 +5,7 @@
 Rechtlicher Ansprechpartner gemäß DDG
 - T.B.D.
 
-Technischer Ansprechpartner (Technik,  und Datenschutz)
+Technischer Ansprechpartner (Technik, Support, Datenschutz)
 
 - https://valentin.hilbig.de/
 - [Adresse](https://maps.app.goo.gl/ehTBZqXt5ujHHLKQ8): Am Sportfeld 5; 86482 Aystetten
