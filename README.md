@@ -1,1 +1,1 @@
-Siehe [Impressum](https://neuerotfront.de/impressum.html)
+Siehe [Impressum](https://neuerotfront.de/impressum)
